@@ -1,11 +1,7 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,boost,postgres,redis,kafka,grpc,websocket" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp,cs,php" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,nginx,gitlab,terraform,ansible,kubernetes" />
 </p>
