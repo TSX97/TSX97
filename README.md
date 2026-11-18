@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,nginx,gitlab,terraform,ansible,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,nginx,gitlab,terraform,kubernetes" />
 </p>
