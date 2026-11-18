@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=boost,go,cpp,postgres,redis,kafka,nats,websocket" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,postgres,redis,kafka" />
 </p>
 
 <p align="center">
